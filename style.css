@@ -13,8 +13,8 @@
 }
 
 .titulo:hover {
-    background-color: rgb(173, 230, 216);
-    transform: scale(1.1);
+    background-color: rgb(130, 200, 180);
+        transform: scale(1.1);
 }
 
 p {
